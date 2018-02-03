@@ -1,0 +1,1 @@
+Shutdown -r -f -c *talha*
