@@ -1,4 +1,4 @@
-# Windows-Bat-Programming-Examples
+# Windows-Batch-Programming-Examples
 These code files are just for learning and educational purpose.
 
 ## Versioning
@@ -12,7 +12,7 @@ These code files are just for learning and educational purpose.
 
 ## License
 
-This project is licensed under the GPL License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPL License - see the [LICENSE.md] file for details
 
 ## Acknowledgments
 
